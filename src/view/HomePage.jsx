@@ -9,24 +9,6 @@ const HomePage = () => {
   let [designerList, setDesignerList] = useState([])
   let [assistantList, setAssistantList] = useState([])
   let [serviceItem, setServiceItem] = useState([])
-  // let serviceItem = [
-  //   { itemName: "洗髮護理", fee: "", isHaveFee: "false" },
-  //   { itemName: "洗髮", fee: "300", isHaveFee: "true" },
-  //   { itemName: "洗髮卡", fee: "180", isHaveFee: "true" },
-  //   { itemName: "購買洗髮卡", fee: "1800", isHaveFee: "true" },
-  //   { itemName: "剪髮設計", fee: "", isHaveFee: "false" },
-  //   { itemName: "燙髮設計", fee: "", isHaveFee: "false" },
-  //   { itemName: "染髮設計", fee: "", isHaveFee: "false" },
-  //   { itemName: "護髮療程", fee: "", isHaveFee: "false" },
-  //   { itemName: "護髮(一般)", fee: "550", isHaveFee: "true" },
-  //   { itemName: "護髮(物化機)", fee: "800", isHaveFee: "true" },
-  //   { itemName: "頭皮療程", fee: "", isHaveFee: "false" },
-  //   { itemName: "頭皮精油", fee: "799", isHaveFee: "true" },
-  //   { itemName: "頭皮SPA", fee: "699", isHaveFee: "true" },
-  //   { itemName: "頭皮隔離", fee: "200", isHaveFee: "true" },
-  //   { itemName: "上青捲", fee: "", isHaveFee: "false" },
-  //   { itemName: "其他", fee: "", isHaveFee: "false" },
-  // ];
   //* values
   let [personnelData, setPersonnelData] = useState({
     owner: "",
