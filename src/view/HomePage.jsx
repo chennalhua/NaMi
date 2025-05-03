@@ -285,7 +285,7 @@ const HomePage = () => {
                                 <option
                                   value={`${item.itemName}-${item.fee}-${item.isHaveFee}`}
                                 >
-                                  {item.itemName} {item.fee?`$${item.fee}`:''}
+                                  {item.itemName}
                                 </option>
                               );
                             })}
