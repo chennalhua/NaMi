@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NaMi/static/css/main.9d8c969a.css",
-    "main.js": "/NaMi/static/js/main.e1b72348.js",
+    "main.js": "/NaMi/static/js/main.1dfa94b8.js",
     "static/js/787.643dd8c4.chunk.js": "/NaMi/static/js/787.643dd8c4.chunk.js",
     "index.html": "/NaMi/index.html",
     "main.9d8c969a.css.map": "/NaMi/static/css/main.9d8c969a.css.map",
-    "main.e1b72348.js.map": "/NaMi/static/js/main.e1b72348.js.map",
+    "main.1dfa94b8.js.map": "/NaMi/static/js/main.1dfa94b8.js.map",
     "787.643dd8c4.chunk.js.map": "/NaMi/static/js/787.643dd8c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d8c969a.css",
-    "static/js/main.e1b72348.js"
+    "static/js/main.1dfa94b8.js"
   ]
 }
